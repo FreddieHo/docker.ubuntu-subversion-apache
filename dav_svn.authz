@@ -1,0 +1,9 @@
+[groups]
+grp1 = user1
+grp2 = user2
+
+[test_repo_1:/]
+@grp1 = rw
+
+[test_repo_2:/]
+@grp2 = rw
