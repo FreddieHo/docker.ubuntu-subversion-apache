@@ -1,1 +1,1 @@
-sudo docker build -t="jvimr/ubuntu-subversion-apache:latest" . 
+docker build -t "m2c/scm-server:latest" . 
